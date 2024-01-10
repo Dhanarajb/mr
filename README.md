@@ -8,7 +8,7 @@ In my current role, I've played a key role in enhancing the user interface of ou
 Sure! When working on Edison Design System 2.0, we had a problem with how fast things were working. It was a bit slow. So, to make it better, we used some smart techniques called memoization and virtual DOM enhancements. This made the web component work much faster and smoother. We also spent a lot of time testing and fixing any issues, making sure it's easy for other developers to use in their projects.
 
 #### Can you discuss a challenging project or Deadline you've worked on and how you overcame obstacles as a front-end developer?
-I worked on a tough project with tight deadlines. I focused on important tasks, talked a lot with the team, and shared any problems early. We changed things as needed, managed time well, and finished the project on time.
+Absolutely! I once worked on a really challenging project with tight deadlines. To tackle it, I made sure to concentrate on the most crucial tasks first, collaborating closely with my team. We had regular discussions to make sure everyone was on the same page. If there were any problems or obstacles, I made sure to speak up early so that we could find solutions together. We adjusted our plans as needed, managed our time efficiently, and, in the end, successfully completed the project within the given deadlines.
 
 #### Can you tell me about how you worked on projects in your last job?
 Sure! In my previous job at Tech Mahindra, we used Agile, mainly Scrum. We had regular meetings like sprint planning, daily stand-ups, and retrospectives. This helped us talk a lot and make changes quickly. Working together in different teams made sure everyone knew what we were trying to do, and we did our projects well.
