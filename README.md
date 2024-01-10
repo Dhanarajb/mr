@@ -19,6 +19,9 @@ Absolutely! I once worked on a really challenging project with tight deadlines. 
 #### Can you tell me about how you worked on projects in your last job?
 Certainly! In my previous role at Tech Mahindra, we followed the Agile methodology, specifically Scrum. We had regular team meetings such as sprint planning, daily stand-ups, and retrospectives. These meetings were essential for effective communication and quick decision-making. Collaborating within diverse teams ensured that everyone had a clear understanding of our project objectives. This approach allowed us to work efficiently, adapt to changes swiftly, and successfully deliver our projects.
 
+#### CI CD
+ I've been involved in Continuous Integration (CI) and Continuous Delivery (CD). I write and develop code while using Git for version control. Automated testing ensures that my code works correctly. A Continuous Integration server automates the build and testing processes. We store our build artifacts in a repository. I've designed and executed deployment pipelines for continuous delivery, progressing from staging to production. Automated deployment processes reduce errors during releases. Monitoring tools help track application performance in production. Regular reviews and improvements are made to optimize our CI/CD processes. Overall, my experience involves a streamlined and efficient approach to software delivery.s
+
 #### How do you decide what work to do first in a project?
 When planning our work for a project, I think about what is most important for the project and what the client needs. I look at things like what depends on something else, how hard a task is, and if there are any possible problems. This way, we can do the most important things early, making sure we finish the project on time. I talk a lot with my team to make sure we all agree on what's most important.
 
