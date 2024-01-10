@@ -10,6 +10,18 @@ While optimizing the Edison Design System 2.0, we faced performance challenges. 
 #### Can you discuss a challenging project or Deadline you've worked on and how you overcame obstacles as a front-end developer?
 I worked on a tough project with tight deadlines. I focused on important tasks, talked a lot with the team, and shared any problems early. We changed things as needed, managed time well, and finished the project on time.
 
+#### Can you tell me about how you worked on projects in your last job?
+Sure! In my previous job at Tech Mahindra, we used Agile, mainly Scrum. We had regular meetings like sprint planning, daily stand-ups, and retrospectives. This helped us talk a lot and make changes quickly. Working together in different teams made sure everyone knew what we were trying to do, and we did our projects well.
+
+#### How do you decide what work to do first in a project?
+When planning our work for a project, I think about what is most important for the project and what the client needs. I look at things like what depends on something else, how hard a task is, and if there are any possible problems. This way, we can do the most important things early, making sure we finish the project on time. I talk a lot with my team to make sure we all agree on what's most important.
+
+
+
+
+
+
+
 #### How do you stay updated on the latest front-end technologies and trends?
 Simple Answer: "I read blogs, follow online communities, and attend webinars to learn about new technologies. This helps me stay updated and bring fresh ideas to the team."
 
