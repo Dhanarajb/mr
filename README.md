@@ -1,3 +1,13 @@
+#### Why do you want work here?
+I want to work here because I love how your company comes up with cool ideas. I'm excited about working on interesting projects with a talented team. It seems like a great place to learn and contribute my skills.
+
+#### Tell me about your experience and what you've achieved in your past jobs.
+In my current role, I've played a key role in enhancing the user interface of our main product, drawing inspiration from user-friendly frameworks like Material UI to make it more accessible for application developers. Additionally, I've focused on optimizing the compatibility of our components for seamless functionality across various devices, particularly emphasizing mobile responsiveness for improved accessibility on phones and tablets. This work is particularly significant within the healthcare domain, where the components I've contributed to can be utilized for medical machines, ensuring a smoother and more effective user experience.
+
+deadline
+Having accrued two years of experience, I've developed effective strategies for managing tight deadlines and high-pressure situations. I prioritize tasks by breaking them into smaller, more manageable components, ensuring a systematic approach to meet deadlines. Drawing inspiration from agile methodologies, I adapt quickly to changes and prioritize tasks based on their urgency and impact. My proficiency in utilizing project management tools aids in organizing workflows and maintaining transparency within the team. Clear and regular communication is integral to my approach, keeping everyone informed about progress and potential challenges. Overall, my experience has equipped me with the skills to remain focused, organized, and resilient under pressure, consistently delivering results within specified timeframes.
+
+
 #### Can you discuss a challenging project you've worked on and how you overcame obstacles as a front-end developer?
 Simple Answer: "I once had a project with tight deadlines. I focused on the most important parts first, collaborated closely with the team, and made sure to communicate any roadblocks. We finished on time by working together."
 
