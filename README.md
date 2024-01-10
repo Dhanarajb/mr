@@ -1,6 +1,9 @@
 #### why you resigned in previous company in 2 year?
 I decided to resign from my previous role after two years as I believed it was the right time for me to seek new challenges and opportunities for professional growth. I had gained valuable experience in my previous position, and I wanted to apply my skills in a different context. I'm enthusiastic about the chance to contribute to a new team and take on responsibilities that align more closely with my career aspirations. I appreciate the experiences and skills I acquired in my previous job, and I am eager to bring that knowledge to a new role where I can continue to learn and make a meaningful impact.
 
+#### Day To Day Life in your Organization?
+my typical day involves organizing tasks, participating in team meetings to discuss progress and challenges, and spending time coding and testing to ensure project quality. I prioritize effective communication with team members and stakeholders, sharing updates regularly. Engaging in code reviews and knowledge-sharing sessions is part of my routine to contribute to a collaborative team environment. Overall, my focus is on managing tasks efficiently, communicating clearly, and supporting the team's success.
+
 #### Why do you want work here?
 I really want to work here because I love how the company comes up with cool ideas. I've heard it's a fantastic place to work on interesting projects and learn from a super talented team. I'm excited about using my skills to help the company do well and be successful.
 
