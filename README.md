@@ -1,3 +1,6 @@
+#### why you resigned in previous company in 2 year?
+I decided to resign from my previous role after two years as I believed it was the right time for me to seek new challenges and opportunities for professional growth. I had gained valuable experience in my previous position, and I wanted to apply my skills in a different context. I'm enthusiastic about the chance to contribute to a new team and take on responsibilities that align more closely with my career aspirations. I appreciate the experiences and skills I acquired in my previous job, and I am eager to bring that knowledge to a new role where I can continue to learn and make a meaningful impact.
+
 #### Why do you want work here?
 I really want to work here because I love how the company comes up with cool ideas. I've heard it's a fantastic place to work on interesting projects and learn from a super talented team. I'm excited about using my skills to help the company do well and be successful.
 
@@ -15,6 +18,8 @@ Certainly! In my previous role at Tech Mahindra, we followed the Agile methodolo
 
 #### How do you decide what work to do first in a project?
 When planning our work for a project, I think about what is most important for the project and what the client needs. I look at things like what depends on something else, how hard a task is, and if there are any possible problems. This way, we can do the most important things early, making sure we finish the project on time. I talk a lot with my team to make sure we all agree on what's most important.
+
+
 
 
 
