@@ -1,3 +1,6 @@
+#### Why you want to join the product based company?
+I'm excited about working at [Company Name] because I admire the awesome websites and apps they create. Their focus on doing a great job and making customers happy aligns with my values. With expertise in HTML, CSS, JavaScript, ReactJS, and Redux, I'm confident in contributing to their projects. The opportunity to learn and grow professionally makes this job appealing to me.
+
 #### why you resigned in previous company in 2 year?
 I decided to resign from my previous role after two years as I believed it was the right time for me to seek new challenges and opportunities for professional growth. I had gained valuable experience in my previous position, and I wanted to apply my skills in a different context. I'm enthusiastic about the chance to contribute to a new team and take on responsibilities that align more closely with my career aspirations. I appreciate the experiences and skills I acquired in my previous job, and I am eager to bring that knowledge to a new role where I can continue to learn and make a meaningful impact.
 
