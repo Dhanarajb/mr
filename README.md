@@ -26,12 +26,7 @@ Certainly! In my previous role at Tech Mahindra, we followed the Agile methodolo
 "One thing I'm really good at is adapting quickly. If things change in a project or the team, I can adjust easily. I like taking on new challenges and learning from different experiences, which helps me contribute well to the team."
 
 #### Greatest Weakness:
-"I tend to be too hard on myself sometimes. I want everything to be perfect, and I spend extra time making sure it is. This can slow me down a bit. But, I'm learning to find a good balance between doing great work and getting things done on time. I listen to feedback, and it's helping me improve."Greatest Strength:
-"One thing I'm really good at is adapting quickly. If things change in a project or the team, I can adjust easily. I like taking on new challenges and learning from different experiences, which helps me contribute well to the team."
-
-Greatest Weakness:
-"I tend to be too hard on myself sometimes. I want everything to be perfect, and I spend extra time making sure it is. This can slow me down a bit. But, I'm learning to find a good balance between doing great work and getting things done on time. I listen to feedback, and it's helping me improve."
-
+"I tend to be too hard on myself sometimes. I want everything to be perfect, and I spend extra time making sure it is. This can slow me down a bit. But, I'm learning to find a good balance between doing great work and getting things done on time. I listen to feedback, and it's helping me improve.
 #### CI CD
  I've been involved in Continuous Integration (CI) and Continuous Delivery (CD). I write and develop code while using Git for version control. Automated testing ensures that my code works correctly. A Continuous Integration server automates the build and testing processes. We store our build artifacts in a repository. I've designed and executed deployment pipelines for continuous delivery, progressing from staging to production. Automated deployment processes reduce errors during releases. Monitoring tools help track application performance in production. Regular reviews and improvements are made to optimize our CI/CD processes. Overall, my experience involves a streamlined and efficient approach to software delivery.s
 
