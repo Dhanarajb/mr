@@ -27,6 +27,11 @@ Certainly! In my previous role at Tech Mahindra, we followed the Agile methodolo
 
 #### Greatest Weakness:
 "I tend to be too hard on myself sometimes. I want everything to be perfect, and I spend extra time making sure it is. This can slow me down a bit. But, I'm learning to find a good balance between doing great work and getting things done on time. I listen to feedback, and it's helping me improve.
+
+
+#### How ajile works?
+Agile is a project management and development approach that emphasizes flexibility, collaboration, and customer satisfaction. It breaks down the project into small, manageable iterations called 'sprints,' usually two to four weeks long. Teams work closely with stakeholders to adapt to changes quickly, delivering a functional product incrementally. Regular meetings, like sprint planning and reviews, promote communication and transparency. Continuous feedback and adjustments are central to Agile, allowing teams to respond promptly to evolving requirements and deliver high-quality outcomes.
+
 #### CI CD
  I've been involved in Continuous Integration (CI) and Continuous Delivery (CD). I write and develop code while using Git for version control. Automated testing ensures that my code works correctly. A Continuous Integration server automates the build and testing processes. We store our build artifacts in a repository. I've designed and executed deployment pipelines for continuous delivery, progressing from staging to production. Automated deployment processes reduce errors during releases. Monitoring tools help track application performance in production. Regular reviews and improvements are made to optimize our CI/CD processes. Overall, my experience involves a streamlined and efficient approach to software delivery.s
 
