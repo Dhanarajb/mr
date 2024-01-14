@@ -1,3 +1,6 @@
+#### Tell Me about Your self?
+Thank you for giving me the opportunity to be interviewed for this position with your company today. Before applying, I read the job description carefully to make sure I was a good fit for the role.I am a a strong team worker and collaborator, an excellent communicator, and take ownership of challenges and problems. If you hire me, I will be a good role model for the company and take responsibility for my ongoing development.
+
 #### Why you want to join the product based company?
 I want to join a product-based company because they create cool and useful things. Your company, in particular, is known for making great products, and I want to be a part of that. I'm excited about using my skills to help improve your products and be on a team that makes a difference in the industry.
 
@@ -9,6 +12,9 @@ my typical day involves organizing tasks, participating in team meetings to disc
 
 #### Why do you want work here?
 I really want to work here because I love how the company comes up with cool ideas. I've heard it's a fantastic place to work on interesting projects and learn from a super talented team. I'm excited about using my skills to help the company do well and be successful.
+
+#### why should I hire you?
+With two years of hands-on experience in front-end development, I bring a solid foundation in HTML, CSS, and JavaScript, along with proficiency in frameworks like React. My track record includes successfully delivering projects on time, adapting to new technologies, and collaborating effectively within cross-functional teams. I am passionate about creating visually appealing and user-friendly interfaces, making me an asset to your team.
 
 #### Tell me about your experience and what you've achieved in your past jobs.
 In my current role, I've played a key role in enhancing the user interface of our main product, drawing inspiration from user-friendly frameworks like Material UI to make it more accessible for application developers. Additionally, I've focused on optimizing the compatibility of our components for seamless functionality across various devices, particularly emphasizing mobile responsiveness for improved accessibility on phones and tablets. This work is particularly significant within the healthcare domain, where the components I've contributed to can be utilized for medical machines, ensuring a smoother and more effective user experience.
